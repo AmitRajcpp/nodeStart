@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "00001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
